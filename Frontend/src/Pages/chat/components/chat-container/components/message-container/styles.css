@@ -1,0 +1,7 @@
+.chat-background {
+    background-image: url("./../../../../../../assets//bg2.jpg"); /* Replace 'path_to_your_image' with the actual image path */
+    background-size:cover;  /* Ensures the image covers the entire div */
+    background-position:center;
+    background-repeat: no-repeat;  /* Centers the image within the div */
+  }
+  
